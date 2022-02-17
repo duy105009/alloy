@@ -19,7 +19,7 @@ node server.js
 ```json
 {
     "port": "8080",
-    "ssl": false,
+    "ssl": true,
     "prefix": "/web/",
     "localAddresses": [],
     "blockedHostnames": []
